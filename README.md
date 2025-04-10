@@ -19,4 +19,4 @@
 <h4>3. <b>Gold Layer: </b>Houses business-ready data modeled into a star schema required for reporting and analytics.</h4>
 
 <h2>💡 Data Flow Diagram</h2>
-![alt text]([https://github.com/bestkavindu/sql-data-warehouse/blob/main/docs/data_flow_diagram.svg](https://github.com/bestkavindu/sql-data-warehouse/blob/main/docs/Archetecture%20Data%20warehouse.png)
+![image alt](https://github.com/bestkavindu/sql-data-warehouse/blob/main/docs/Archetecture%20Data%20warehouse.png?raw=true)
