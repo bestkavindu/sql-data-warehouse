@@ -19,4 +19,4 @@
 <h4>3. <b>Gold Layer: </b>Houses business-ready data modeled into a star schema required for reporting and analytics.</h4>
 
 <h2>💡 Data Flow Diagram</h2>
-![alt text](https://github.com/user-attachments/assets/085596fa-5e1e-4cb0-9c7b-365a4ec22c36)
+![alt image](https://github.com/user-attachments/assets/085596fa-5e1e-4cb0-9c7b-365a4ec22c36)
