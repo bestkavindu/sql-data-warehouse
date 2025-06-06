@@ -12,12 +12,14 @@
 <h4>4. <b>Analytics & Reporting: </b>Creating SQL-based reports and dashboards for actionable insights.</h4>
 
 <h2>🚚 Data Architecture</h2>
-![alt text](https://github.com/user-attachments/assets/2518bf0c-9f12-4358-aaef-57c3e9bac392)
+
+![alt text](https://github.com/bestkavindu/sql-data-warehouse/blob/main/docs/ArchetectureDataWarehouse.svg)
 
 <h4>1. <b>Bronze Layer: </b>Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.</h4>
 <h4>2. <b>Silver Layer: </b>This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.</h4>
 <h4>3. <b>Gold Layer: </b>Houses business-ready data modeled into a star schema required for reporting and analytics.</h4>
 
 <h2>💡 Data Flow Diagram</h2>
-![image](https://github.com/user-attachments/assets/ad9cad51-243e-4163-8e12-65366a05f1dd)
+
+![alt text](https://github.com/bestkavindu/sql-data-warehouse/blob/main/docs/data_flow_diagram.svg)
 
